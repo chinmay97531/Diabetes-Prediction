@@ -44,7 +44,9 @@ Seaborn<br>
 </li>
 <li>Model Selection:
 <ul>
-<li>Experimented with multiple ML algorithms to find the best fit.</li>
+<li>Random Forest</li>
+<li>Decision Tree</li>
+<li>Support Vector Machine(SVM)</li>
 </ul>
 </li>
 <li>Model Evaluation:
